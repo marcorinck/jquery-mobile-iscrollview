@@ -2,7 +2,7 @@
 	"author": "Marco Rinck",
 	"name": "jquery-mobile-iscrollview-amd",
 	"description": "JQuery Mobile widget plug-in for easy use of the iScroll javascript scroller. Fork of official version by watusi, https://github.com/watusi/jquery-mobile-iscrollview",
-	"version": "1.3.2",
+	"version": "1.3.3",
 	"homepage": "https://github.com/marcorinck/jquery-mobile-iscrollview",
 	"repository": {
 		"type": "git",
