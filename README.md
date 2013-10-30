@@ -14,7 +14,10 @@ Its best to define a shim for this lib like so:
 ````javascript
 require.config({
 		paths:{
-		  ....
+		  ...
+		  'iscroll': 'iscroll',
+		  'iscrollview': 'jquery.mobile.iscrollview',
+		  ...
 		},
 		shim:{
 			'iscroll':{ deps:['jquery'], exports:'iscroll' },
